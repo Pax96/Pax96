@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm new to GitHub, just getting started
 <!--
 **Pax96/Pax96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
